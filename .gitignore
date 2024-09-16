@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Ignore everything in the notebooks directory but the SQL_Assignment notebook
+notebooks/
+!SQL_Assignment.ipynb
+
+# ignore output submission
+submit-me.zip
